@@ -1,0 +1,19 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "Workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lesleyandrez/worflow.git"
+  },
+  "author": "Lesley Andreza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lesleyandrez/worflow/issues"
+  },
+  "homepage": "https://github.com/lesleyandrez/worflow#readme"
+}
